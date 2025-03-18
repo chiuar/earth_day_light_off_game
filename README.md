@@ -1,5 +1,3 @@
-# earth_day_light_off_game
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
